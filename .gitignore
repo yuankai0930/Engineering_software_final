@@ -88,8 +88,7 @@ Desktop.ini
 # Recycle Bin used on file shares
 $RECYCLE.BIN/
 
-# VS Code directories
-.vscode/
+# VS Code directories (keep select files below)
 
 # Mac files
 .DS_Store
